@@ -1,0 +1,13 @@
+
+]	java:S125$"<This block of commented-out lines of code should be removed.(Ú™’ùÿÿÿÿ8†°å×©.
+]
+java:S1854 "@Remove this useless assignment to local variable "desicionSize".(âÕÔ8üˆ€Ø©.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(‚ æÑ8ÕŒ½×©.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(©Û÷¶8Î¨´×©.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ûà‰™8õ¶×©.
+]	java:S1255"<This block of commented-out lines of code should be removed.(´³ºúÿÿÿÿ8¨Ïå×©.
+N
+java:S1481 "1Remove this unused "desicionSize" local variable.(âÕÔ8üˆ€Ø©.
+]	java:S1259"<This block of commented-out lines of code should be removed.(†•§şÿÿÿÿ8¨Ïå×©.
+X	java:S125'"<This block of commented-out lines of code should be removed.(ìÊä8†°å×©.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¸§ØÎ8ŸÙ¬×©.

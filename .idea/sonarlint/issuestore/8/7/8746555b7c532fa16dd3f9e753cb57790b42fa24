@@ -1,0 +1,11 @@
+
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¤„ïÒ©.
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(¹†ê8¦ˆëÒ©.
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(öÕ¤µ8ÀÁÍÒ©.
+
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "hmacKey".(ÅëñŞüÿÿÿÿ8‹ç¸Ö©.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(—øÛÖ8Ğ³Ö©.
